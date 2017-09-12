@@ -1,0 +1,3 @@
+<resources>
+	<attr name="toolbar_style" format="reference"></attr>
+</resources>
